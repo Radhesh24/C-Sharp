@@ -1,0 +1,7 @@
+D:\Courses\C#\B22CSharpDemos\2_Datatypes\bin\Debug\2_Datatypes.exe.config
+D:\Courses\C#\B22CSharpDemos\2_Datatypes\bin\Debug\2_Datatypes.exe
+D:\Courses\C#\B22CSharpDemos\2_Datatypes\bin\Debug\2_Datatypes.pdb
+D:\Courses\C#\B22CSharpDemos\2_Datatypes\obj\Debug\2_Datatypes.csproj.AssemblyReference.cache
+D:\Courses\C#\B22CSharpDemos\2_Datatypes\obj\Debug\2_Datatypes.csproj.CoreCompileInputs.cache
+D:\Courses\C#\B22CSharpDemos\2_Datatypes\obj\Debug\2_Datatypes.exe
+D:\Courses\C#\B22CSharpDemos\2_Datatypes\obj\Debug\2_Datatypes.pdb
